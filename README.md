@@ -3,5 +3,4 @@
 ![2022-04-09 (6)](https://user-images.githubusercontent.com/87483774/162607463-8b5692ce-b408-4bc2-b780-856fd5fff3ed.png)
 ![2022-04-09 (13)](https://user-images.githubusercontent.com/87483774/162607329-f0faf07f-8114-4bd8-837c-68627376220d.png)
 # online-book-store-project-in-php
-
 more details and demo http://projectworlds.in/online-book-store-project-in-php/
